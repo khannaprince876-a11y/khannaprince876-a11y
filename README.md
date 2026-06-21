@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Balram Khanna</h1>
+
 # 💫 About Me:
 Data Analyst with a strong interest in Business Intelligence, Data Visualization, and Analytics. Skilled in SQL, Python, Power BI, and Excel for data analysis, dashboard development, and performance reporting. Passionate about turning data into actionable insights and building solutions that support informed business decisions.
 
